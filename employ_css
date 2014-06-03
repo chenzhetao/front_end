@@ -1,0 +1,38 @@
+body
+	{
+		background-image:url(images/1.jpg);
+		font-family:"Microsoft YaHei",STHeiti;
+		font-size:small;
+	}
+div.kong
+	{
+		background-color:#555555;
+		filter:alpha(Opacity=20);/* for IE */
+		-moz-opacity:0.2;/* for firefox */
+		opacity:0.2;
+		width:580px;
+		height:1500px;
+		margin:36px auto 80px auto;
+		padding:40px 100px 50px 100px;
+		border:1px solid #000000;
+		box-shadow:0px 0px 3px 3px #111111;
+		line-height:200%;
+	}
+div.content
+	{
+		width:580px;
+		margin:-1620px auto 80px auto;
+		padding:40px 100px 50px 100px;
+		color:#aaaaaa;
+		line-height:200%;
+	}
+h1
+	{
+		text-align:center;
+		margin-bottom:40px;
+		font-weight:normal;
+	}
+h3
+	{
+		font-weight:normal;
+	}
